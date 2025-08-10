@@ -1,6 +1,6 @@
-# Maritime Incident Severity Prediction
+# Ship Deficiency Severity Prediction
 
-A predictive model for a hackathon that classifies the severity of ship incidents using a hybrid machine learning approach. The model combines deep learning-based NLP with a gradient boosting classifier to achieve high accuracy on mixed data types.
+A predictive model for a hackathon that classifies the severity of ship deficiencies using a hybrid machine learning approach. The model combines deep learning-based NLP with a gradient boosting classifier to achieve high accuracy on mixed data types.
 
 ## The Steps
 
